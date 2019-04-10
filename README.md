@@ -1,2 +1,0 @@
-# ProductCarousel
-Created with CodeSandbox
